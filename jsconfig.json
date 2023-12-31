@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/api/*": ["pages/api/*"],
+      "@/services/*": ["services/*"],
+      "@/lib/*": ["lib/*"],
+      "@/utils/*": ["utils/*"],
+<<<<<<< HEAD
+      "@/helpers/*": ["helpers/*"]
+=======
+      "@/helpers/*": ["helpers/*"],
+      "@/constants/*": ["constants/*"],
+>>>>>>> 40126e79bbefcdeb149e259551a9c3e9cd571710
+    }
+  }
+}
